@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6i0092/v1
+canonical_location: https://kanripo.org/bkk/KR6i0092/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 維摩經抄
+  identifiers:
+    alt_id:
+    - T85n2773
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2773.xml
+    old_id: T85n2773
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0092_000.yaml, hash: 'sha256:5b611d2e286eed873551f3b1b86bd932aaa96afa771cc899e65ee31b4c420f0e'}
+  - {seq: 1, filename: KR6i0092_001.yaml, hash: 'sha256:6e755e52bde9898e6020074db1c3060a54d3e828f708a948c0f5755d1f5eec8a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0092_001.markers.yaml, hash: 'sha256:59fd74cc4a76a0e219b52a6f77e3a4d7a1ab84ef5c7a765ab859151f0c8af116'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12718
+  label: 維摩經抄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 1 佛國品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-2
+    span:
+    - body
+    - 3216
+    - 3216
+  label: 2 方便品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-3
+    span:
+    - body
+    - 3387
+    - 3387
+  label: 3 弟子品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-4
+    span:
+    - body
+    - 5999
+    - 5999
+  label: 4 菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-5
+    span:
+    - body
+    - 7449
+    - 7449
+  label: 5 文殊師利菩薩問疾品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-6
+    span:
+    - body
+    - 9356
+    - 9356
+  label: 6 不思議品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-7
+    span:
+    - body
+    - 9988
+    - 9988
+  label: 7 觀眾生品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-8
+    span:
+    - body
+    - 10731
+    - 10731
+  label: 8 佛道品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-9
+    span:
+    - body
+    - 11544
+    - 11544
+  label: 9 入不二法門品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-10
+    span:
+    - body
+    - 11624
+    - 11624
+  label: 10 香積佛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-11
+    span:
+    - body
+    - 12105
+    - 12105
+  label: 11 菩薩行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0092_T_001-mulu-12
+    span:
+    - body
+    - 12568
+    - 12568
+  label: 12 見阿閦佛品
+  type: mulu
+  level: 1
+hash: sha256:3abf116acb13535db259c15bcacdaa40d602b4e6a1da20b41afb9cb4146ad9f8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
