@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0092_000.yaml, hash: 'sha256:5b611d2e286eed873551f3b1b86bd932aaa96afa771cc899e65ee31b4c420f0e'}
-  - {seq: 1, filename: KR6i0092_001.yaml, hash: 'sha256:6e755e52bde9898e6020074db1c3060a54d3e828f708a948c0f5755d1f5eec8a'}
+  - {seq: 1, filename: KR6i0092_001.yaml, hash: 'sha256:6efca1c080c4ce7e9e2fe9d48c377d3114f57a6008b69bdfab4422c2194ebad4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0092_001.markers.yaml, hash: 'sha256:59fd74cc4a76a0e219b52a6f77e3a4d7a1ab84ef5c7a765ab859151f0c8af116'}
+  - {seq: 0, role: markers, filename: assets/KR6i0092_000.markers.yaml, hash: 'sha256:cda100c9247911de2873ecb052e0639445b3cd999ea5e85c0e8e0ba7ef4fef2b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0092_001.markers.yaml, hash: 'sha256:344244d2c2f3e0531034cb7d3b0f519d10cadc4be4839c400e76874dad3be9bd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -156,7 +157,4 @@ table_of_contents:
   label: 12 見阿閦佛品
   type: mulu
   level: 1
-hash: sha256:3abf116acb13535db259c15bcacdaa40d602b4e6a1da20b41afb9cb4146ad9f8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d1d8b37f793e24c45ff151c8dd1ede8bcff41b4051b87c1d18c62be560fd2fe2
